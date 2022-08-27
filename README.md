@@ -55,8 +55,8 @@ Here are some ideas to get you started:
   <img align="center" title="figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="photoshop" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />
 </div>
-
- 
+<br>
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anthony29p&show_icons=true&theme=gotham" alt="" />
   
 **Contact me:**  
