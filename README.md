@@ -1,6 +1,6 @@
-# Hi, i'm Anthony
+<h1 align="center">Hi, i'm Anthony</h1>
+<h3 align="center">Full stack web developer and a Industrial Engineer from Lima.</h3>
 
-Full stack web developer and a industrial engineer from Lima.
 <!--
 **Anthony29p/anthony29p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 <img align="center" title="jQuery" alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 -->
 
-**Languages:**
+<h4>Languages:</h4>
 <div>
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
- 
-**Front-end:**
+</div>
+
+<h4>Front-end:</h4>
 <div>
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,17 +37,19 @@ Here are some ideas to get you started:
   <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div> 
   
-**Back-end:**
+<h4>Back-end:</h4>
 <div>
   <img align="center" title="nodejs" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+</div> 
 
- **Database:**
+<h4>Database:</h4>
  <div>
   <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
   <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
 
-**Tools:**
+<h4>Tools:</h4>
 <div>
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -59,12 +62,12 @@ Here are some ideas to get you started:
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anthony29p&show_icons=true&theme=gotham" alt="" />
   
-**Contact me:**  
- 
-<a href="https://www.linkedin.com/in/anthony-p-53962163/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:anthony.perez@uni.pe">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
-</a>
-
+<h4>Contact me:</h4>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/anthony-p-53962163/">
+    <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="mailto:anthony.perez@uni.pe">
+    <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
+  </a>
+</div> 
