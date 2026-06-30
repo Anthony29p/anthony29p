@@ -27,7 +27,7 @@
 <div>
 <img align="center" title="Go" alt="golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="center" title="Node.js" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="center" title="NestJS" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+<img align="center" title="NestJS" alt="nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </div>
 
 **Go:** Gin, Fiber, GORM | **Patterns:** Microservices, Hexagonal Architecture, Event-Driven, TDD | **Node.js:** Express, NestJS, Koa, Inversify
@@ -79,6 +79,6 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:anthonyperezalbornoz@gmail.com">
-<img alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
+<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
 </a>
 </div>
